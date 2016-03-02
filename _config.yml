@@ -1,0 +1,14 @@
+layout_spectrum: 0.179074
+color:
+  saturation: 0.7979978
+  lightness: 0.6265541
+  brandStrength: 0.9851064
+  brandColors:
+    - '#FFFFFF'
+    - '#B46E5C'
+    - '#392730'
+    - '#C6D0CF'
+    - '#27C5CF'
+  rhythmicContrast: 0.7199667
+typography_spectrum: 0.8553191
+name: EffortlessEnglish
